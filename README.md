@@ -1,2 +1,2 @@
 # Resume
-<img src="resume.jpg" width="100%">
+<img src="resume.jpg" width="100%"> 
