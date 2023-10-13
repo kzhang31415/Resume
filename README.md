@@ -1,2 +1,2 @@
-# resume
-My resume. Intended to be updated annually.
+# Resume
+<img src="resume.jpg" width="100%">
